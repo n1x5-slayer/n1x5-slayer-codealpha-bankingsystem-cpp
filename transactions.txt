@@ -1,0 +1,19 @@
+Mon Jul 14 15:47:03 2025 | User: n1x5 | Operation: Deposit | Amount: $5000
+Mon Jul 14 15:52:54 2025 | User: n1x5 | Operation: Check Balance | Amount: $0
+Mon Jul 14 15:53:05 2025 | User: n1x5 | Operation: Deposit | Amount: $900000
+Mon Jul 14 15:53:18 2025 | User: n1x5 | Operation: Send Money | Amount: $1000 | Details: PayPal to 908238293
+Mon Jul 14 15:53:20 2025 | User: n1x5 | Operation: Check Balance | Amount: $0
+Mon Jul 14 16:05:24 2025 | User: Intern | Operation: Registration | Amount: $0
+Mon Jul 14 16:07:16 2025 | User: Intern | Operation: Deposit | Amount: $1000
+Mon Jul 14 16:08:34 2025 | User: Intern | Operation: Withdraw | Amount: $200
+Mon Jul 14 16:09:18 2025 | User: Intern | Operation: Check Balance | Amount: $0
+Mon Jul 14 16:10:47 2025 | User: Intern | Operation: Send Money | Amount: $400 | Details: SadaPay to 9383
+Mon Jul 21 14:10:11 2025 | User: SHRI | Operation: Registration | Amount: $0
+Mon Jul 21 14:11:39 2025 | User: SHRI | Operation: Deposit | Amount: $1000
+Mon Jul 21 14:11:43 2025 | User: SHRI | Operation: Check Balance | Amount: $0
+Mon Jul 21 14:12:03 2025 | User: SHRI | Operation: Send Money | Amount: $300 | Details: Bank Transfer to 3456535
+Mon Jul 21 14:12:09 2025 | User: SHRI | Operation: Check Balance | Amount: $0
+Mon Jul 21 14:12:17 2025 | User: SHRI | Operation: Withdraw | Amount: $500
+Mon Jul 21 14:12:21 2025 | User: SHRI | Operation: Check Balance | Amount: $0
+Mon Jul 21 14:12:40 2025 | User: SHRI | Operation: Send Money | Amount: $200 | Details: NayaPay to 29476592
+Mon Jul 21 14:12:44 2025 | User: SHRI | Operation: Check Balance | Amount: $0
